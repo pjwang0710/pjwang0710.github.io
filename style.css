@@ -65,8 +65,12 @@ section .content-box {
 
 .action-button {
     margin-top: 30px;
+    margin-bottom: 30px;
     background-color: #ddeeff;
     border: none;
     padding: 15px 15px;
     text-align: center;
+}
+section .hidden-contents {
+    display: none;
 }
